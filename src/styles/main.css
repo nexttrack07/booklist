@@ -1,0 +1,5 @@
+.list-group {
+  list-style: none; }
+  .list-group__item {
+    border: 1px solid #efefef;
+    padding: 5px; }

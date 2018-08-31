@@ -1,0 +1,8 @@
+.list-group {
+    list-style: none;
+
+    &__item {
+        border: 1px solid $color-grey-light;
+        padding: 5px;
+    }
+}
